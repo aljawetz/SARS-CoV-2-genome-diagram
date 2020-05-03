@@ -39,7 +39,7 @@ pip install reportlab
 
 ## Contributing
 
-1. Fork it (<https://github.com/aljawetz/SARS-CoV-2-genome-digram-using-Biopython/fork>)
+1. Fork it (<https://github.com/aljawetz/SARS-CoV-2-genome-diagram-using-Biopython/fork>)
 2. Create your feature branch
 3. Commit your changes
 4. Push to the branch
