@@ -1,4 +1,4 @@
-# SARS-CoV-2-genome-digram-using-Biopython
+# SARS-CoV-2-genome-diagram-using-Biopython
 > Using Biopython to study computational molecular biology to build a Covid-19 genome diagram
 
 The only purpose of this project is to learn more about computational molecular biology and the Biopython library.
