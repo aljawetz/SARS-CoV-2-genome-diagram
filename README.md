@@ -17,6 +17,13 @@ You can get the complete Covid-19 genome researched in Brazil and China and the 
 
 The diagrams elaborated with the Reportlab library in this project produced the following schematics:
 
+![](CDS Covid-19 (BR) x Covid-19 (WU) x MERS-CoV.jpg)
+
+![](Covid-19 - Genome Diagram (linear).jpg)
+
+![](Covid-19 - Genome Diagram (circular).jpg)
+
+
 Although the diagrams do not represent 100% of the reality, it was possible to have a great similarity with the tests obtained by professionals in the field, such as this research:
 
 [SARS-CoV-2 (COVID-19) Genome](https://www.snapgene.com/resources/coronavirus-resources/?resource=SARS-CoV-2_(COVID-19)_Genome)
